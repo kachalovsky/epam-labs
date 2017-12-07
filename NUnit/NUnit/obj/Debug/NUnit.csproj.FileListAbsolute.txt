@@ -1,8 +1,0 @@
-D:\Study\Fourth\Epam\NUnit\NUnit\bin\Debug\NUnit.dll
-D:\Study\Fourth\Epam\NUnit\NUnit\bin\Debug\NUnit.pdb
-D:\Study\Fourth\Epam\NUnit\NUnit\bin\Debug\nunit.framework.dll
-D:\Study\Fourth\Epam\NUnit\NUnit\bin\Debug\nunit.framework.xml
-D:\Study\Fourth\Epam\NUnit\NUnit\obj\Debug\NUnit.csprojResolveAssemblyReference.cache
-D:\Study\Fourth\Epam\NUnit\NUnit\obj\Debug\NUnit.csproj.CoreCompileInputs.cache
-D:\Study\Fourth\Epam\NUnit\NUnit\obj\Debug\NUnit.dll
-D:\Study\Fourth\Epam\NUnit\NUnit\obj\Debug\NUnit.pdb
